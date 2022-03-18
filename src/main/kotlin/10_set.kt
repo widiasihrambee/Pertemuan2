@@ -13,5 +13,5 @@ fun main() {
     println(numbers.first() == numbersBackwards.last())
 
     val string = hashSetOf("a", "b","c","c") //hash set value unik
-    println("My set values are"+string)
+    println("My set values are ."+string)
 }
