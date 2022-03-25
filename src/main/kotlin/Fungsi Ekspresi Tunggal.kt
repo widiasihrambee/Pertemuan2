@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-    println("Max value from max function = ${max(4,7)}")
+    println("Max vvalue from max function = ${max(4,7)}")
     println("Max value from newMax function = ${newMax(3,5)}")
 }
 fun max(a: Int, b:Int): Int {
