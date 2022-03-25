@@ -1,6 +1,6 @@
 fun main() {
     println("Exponent calculator")
-    println("===================")
+    println("==================")
     println("Enter the base: ")
     val a = readLine()!!.toInt()
     println("Enter the exponent: ")
